@@ -1,4 +1,4 @@
-This is personal website of Sharan.
+This is portfolio website of Sharan.
 
 
 Credits:
